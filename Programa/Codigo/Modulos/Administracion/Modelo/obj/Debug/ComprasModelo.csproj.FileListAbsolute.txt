@@ -1,0 +1,8 @@
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\bin\Debug\ComprasModelo.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\bin\Debug\ComprasModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.csproj.CopyComplete
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Modelo\obj\Debug\ComprasModelo.pdb
