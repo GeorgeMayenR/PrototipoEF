@@ -1,0 +1,26 @@
+commit 6a5f6743cb42a1d981dba9ef9a01bfea76e7c049
+Merge: 4e51812 92936a3
+Author: George Mayén <109621959+GeorgeMayenR@users.noreply.github.com>
+Date:   Tue Nov 15 12:55:59 2022 -0600
+
+    Merge pull request #1 from GeorgeMayenR/RamaDiagramas09011911383
+    
+    Agregando el programa con sus funciones
+
+commit 92936a3a7c2690f6bbf82a57e37abb2f397f308e
+Author: GeorgeMayenR <georgemayen11520@gmail.com>
+Date:   Tue Nov 15 12:50:02 2022 -0600
+
+    Agregando el programa con sus funciones
+
+commit 4e518121fbad76a862ced9498dfe13d7d708d8d2
+Author: GeorgeMayenR <georgemayen11520@gmail.com>
+Date:   Tue Nov 15 09:45:05 2022 -0600
+
+    Agregando todos los diagramas y la BD
+
+commit d3cafbf9f8ae7dcf61e3311b5d242a3d447fc800
+Author: George Mayén <109621959+GeorgeMayenR@users.noreply.github.com>
+Date:   Tue Nov 15 08:10:07 2022 -0600
+
+    Initial commit
