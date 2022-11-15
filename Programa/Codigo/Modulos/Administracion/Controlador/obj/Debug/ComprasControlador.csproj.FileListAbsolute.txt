@@ -1,0 +1,10 @@
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\obj\Debug\ComprasControlador.csproj.AssemblyReference.cache
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\obj\Debug\ComprasControlador.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\bin\Debug\ComprasControlador.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\bin\Debug\ComprasControlador.pdb
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\bin\Debug\ComprasModelo.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\bin\Debug\ComprasModelo.pdb
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\obj\Debug\ComprasControlador.csproj.CopyComplete
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\obj\Debug\ComprasControlador.dll
+C:\Users\Mayén Ramírez\Desktop\Mi repositorio\proyectofinalasis222022\Codigo\Modulos\Administracion\Controlador\obj\Debug\ComprasControlador.pdb
